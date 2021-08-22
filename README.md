@@ -5,6 +5,6 @@
 <p>
   <br>
 <h6>You might find more information about me on my website...</h6>
-sdf
+
 
 
