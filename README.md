@@ -1,5 +1,5 @@
 
-<h1>Yo I'm Nihal 👋</h1>
+<h1>Hello I'm Nihal 👋</h1>
 <h2>Student && HS Senior && Developer</h2>
 <br>
 <a href="https://www.instagram.com/nihxlnooney_/"><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"/></a>
