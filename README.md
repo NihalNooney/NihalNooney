@@ -11,8 +11,7 @@
 <p>
   <br>
       
-     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&theme=radical)
-        
+s        
         
         
 <h6>You might find more information about me on my <a href = "https://nihalrajnooney.xyz/" >website</a>...<h6>
