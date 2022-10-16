@@ -1,6 +1,6 @@
 
 <h1>Hey I'm Nihal 👋</h1>
-<h2>Student && HS Senior && Developer</h2>
+<h2>Student && College Freshman && Developer</h2>
 <br>
 <a href="https://www.instagram.com/nihxlnooney_/"><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"/></a>
         <a href = "mailto:nooney.nihal@Gmail.com"> <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/></a>
